@@ -302,7 +302,7 @@
             // 
             this.todaysDate.AutoSize = true;
             this.todaysDate.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.todaysDate.Location = new System.Drawing.Point(12, 9);
+            this.todaysDate.Location = new System.Drawing.Point(12, 14);
             this.todaysDate.Name = "todaysDate";
             this.todaysDate.Size = new System.Drawing.Size(71, 20);
             this.todaysDate.TabIndex = 21;
